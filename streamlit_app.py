@@ -69,7 +69,7 @@ def main():
             unsafe_allow_html=True,
         )
         st.markdown(
-            "[Learn more](https://github.com/mahimairaja/german-diabetes-classification)"
+            "[Learn more](https://github.com/mahimairaja/housing-prediction-azure-microservice)"
         )
 
 
