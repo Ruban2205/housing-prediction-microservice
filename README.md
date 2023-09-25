@@ -8,8 +8,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -23,10 +21,6 @@
 [issues-url]: https://github.com/Ruban2205/housing-prediction-microservice/issues
 [license-shield]: https://img.shields.io/github/license/Ruban2205/housing-prediction-microservice.svg?style=for-the-badge
 [license-url]: https://github.com/Ruban2205/housing-prediction-microservice/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ruban-gino-singh
-[twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
-[twitter-url]: https://x.com/Rubangino
 
 ## Features
 
